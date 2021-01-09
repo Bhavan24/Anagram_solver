@@ -3,3 +3,6 @@ anagram solver using python
 
 This repo has both command line version & GUI version
 both of them uses the wordlist given
+
+## Screenshot of the App
+![](SS.PNG)
